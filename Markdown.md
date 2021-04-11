@@ -1,4 +1,4 @@
-Things to Learn
+## Things to Learn
 - [ ] React
 - [ ] Wordpress
 - [x] AWS RDS
